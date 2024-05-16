@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/2023/11/14/test/"/>
+      <url>/2023/11/14/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的文章</title>
+      <link href="/2023/10/07/%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/10/07/%E6%88%91%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我的第一篇文章"><a href="#我的第一篇文章" class="headerlink" title="我的第一篇文章"></a>我的第一篇文章</h2><p>哈哈哈</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
